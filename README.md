@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="left">My name is Alex, welcome to my GitHub portfile!!!</div>  
 <div align="center">
 <a href="https://github.com/ander-lab" target="_blank">
