@@ -33,15 +33,16 @@
 
 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ander-lab&show_icons=true&theme=gotham" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ander-lab&show_icons=true&theme=gotham" height="180 /></div>
 <br/ >
 <br/ >
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="right" height="180/></div>
+<br/ ><br/ >
+<br/ ><br/ >
+
 <div align="center"><img src="https://badge42.herokuapp.com/api/stats/ajimenez?privacyEmail=true" align="center" /></div>
 <br/ ><br/ >
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="center center" /></div>  
 <br/ ><br/ >
-
-
 
 ### My Skill Set  
 <div align="center">  
