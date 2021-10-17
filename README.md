@@ -22,7 +22,6 @@
 </td></tr></table>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ander-lab&show_icons=true&theme=gotham" /></div>
 <br/ >
-<br/ >
 <div align="center"><img src="https://badge42.herokuapp.com/api/stats/ajimenez?privacyEmail=true" align="center" /></div>
 <br/ >
 <br/ >
