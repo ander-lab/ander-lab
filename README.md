@@ -30,8 +30,6 @@
 <br/ ><br/ >
 <div align="center"><img src="https://badge42.herokuapp.com/api/stats/ajimenez?privacyEmail=true" align="center" /></div>
 <br/ ><br/ >
-<br/ ><br/ >
-
 ### My Skill Set  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
