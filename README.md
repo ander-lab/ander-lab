@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div> 
+
 ### <div align="left">My name is Alex, welcome to my GitHub portfile!!!</div>  
 <div align="center">
 <a href="https://github.com/ander-lab" target="_blank">
@@ -22,7 +26,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ander-lab&show_icons=true&theme=gotham" height="180 /></div>
 <br/ >
 <br/ >
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="right" height="180/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="center" height="180/></div>
 <br/ ><br/ >
 <br/ ><br/ >
 <br/ >
