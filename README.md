@@ -23,10 +23,10 @@
 
 <br/>  
 </td></tr></table>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ander-lab&show_icons=true&theme=gotham" height="180 /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ander-lab&show_icons=true&theme=gotham" /></div>
 <br/ >
 <br/ >
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="center" height="180/></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" align="center" /></div>
 <br/ ><br/ >
 <br/ ><br/ >
 <br/ >
