@@ -15,7 +15,7 @@
 - 🔭 I’m currently studying on [42 Madrid](https://www.42madrid.com/) Software Engineering  
   
 
-- 🌱 I’m currently interested on full-stack development and cybersecurity.  
+- 🌱 Actualy, I am learning cybersecurity.  
   
 
 <br/>  
